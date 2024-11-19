@@ -1,0 +1,16 @@
+{
+  "name": "AlphaMaleCoin",
+  "symbol": "ALPHA",
+  "description": "Solana based token for the real alphas.",
+  "image": "https://raw.githubusercontent.com/owndy123/AlphaMaleCoin/refs/heads/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "8XUDfkEsqhyXNnHEFKoPies2BJtRJnDJMQ3JCV8wUKF2",
+        "share": 100
+      }
+    ]
+  }
+}
